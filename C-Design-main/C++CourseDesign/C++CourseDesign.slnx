@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="C++CourseDesign/C++CourseDesign.vcxproj" Id="5e98e7d5-f547-4a47-a6b0-20eb0fb4891b" />
+</Solution>
